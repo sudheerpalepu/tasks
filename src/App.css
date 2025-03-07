@@ -1,0 +1,22 @@
+/* src/App.css */
+
+.container {
+    padding-top: 50px;
+  }
+  
+  .text-center {
+    font-size: 24px;
+  }
+  
+  .my-2 {
+    margin-top: 20px;
+  }
+  
+  .list-group-item {
+    cursor: pointer;
+  }
+  
+  .list-group-item-success {
+    text-decoration: line-through;
+  }
+  
